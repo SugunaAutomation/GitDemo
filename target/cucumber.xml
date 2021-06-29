@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.293">
+<testcase classname="Find flights using Musafir website" name="Find flights between source and destination" time="0.032">
+<system-out><![CDATA[Given user has navigated to Musafir website.................................passed
+When user clicks "trip_one" flight option...................................passed
+Then user enters TRV and COK................................................passed
+And user clicks traveldate..................................................passed
+And user clicks Find Flights................................................passed
+Then user is successfully navigated to flight options page..................passed
+]]></system-out>
+</testcase>
+</testsuite>
